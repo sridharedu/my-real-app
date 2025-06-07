@@ -6,6 +6,7 @@
         <groupId>com.myrealapp</groupId>
         <artifactId>my-real-app</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>com.my-real-app</groupId>
     <artifactId>product-service</artifactId>
